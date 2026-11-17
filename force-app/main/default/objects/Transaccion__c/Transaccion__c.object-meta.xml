@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Movimiento inmutable de depósito o retiro sobre una cuenta bancaria.</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableReports>true</enableReports>
+    <label>Transacción</label>
+    <nameField>
+        <displayFormat>TX-{00000}</displayFormat>
+        <label>Número de transacción</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Transacciones</pluralLabel>
+    <sharingModel>ControlledByParent</sharingModel>
+    <visibility>Public</visibility>
+</CustomObject>

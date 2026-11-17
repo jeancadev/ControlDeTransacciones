@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Cuenta_Bloqueada</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Cuenta bloqueada</shortDescription>
+        <value>La cuenta bancaria está bloqueada y no admite transacciones.</value>
+    </labels>
+    <labels>
+        <fullName>Monto_Debe_Ser_Mayor_A_Cero</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Monto positivo</shortDescription>
+        <value>El monto debe ser mayor que cero.</value>
+    </labels>
+    <labels>
+        <fullName>Saldo_Insuficiente</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Saldo insuficiente</shortDescription>
+        <value>El retiro excede el saldo disponible de la cuenta.</value>
+    </labels>
+    <labels>
+        <fullName>Transaccion_Inmutable</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Transacción inmutable</shortDescription>
+        <value>Las transacciones no se pueden modificar ni eliminar.</value>
+    </labels>
+</CustomLabels>

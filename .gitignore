@@ -1,0 +1,9 @@
+# Salesforce local files
+.sf/
+.sfdx/
+
+# Editor and operating-system files
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
